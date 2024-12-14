@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DigiDex</string>
+    <string name="digimon_image">Imagen de Digimon</string>
+    <string name="digidex">DigiDex</string>
+    <string name="search_digimon">Search Digimon</string>
+    <string name="digimon_name">Digimon Name</string>
+    <string name="digimon_level">Digimon Level</string>
+    <string name="app_icon">Digimon Image</string>
+    <string name="level_icon">Digimon Level Image</string>
+    <string name="favorite_button">Digimon Favourite Button</string>
+</resources>
